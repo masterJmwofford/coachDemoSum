@@ -1,0 +1,98 @@
+/* *{
+    border:solid red;
+} */
+
+body{
+    /* background-color:lightblue; */
+    padding:1em;
+    font-family:serif;
+}
+.adBar{
+    border:solid #333c3f;
+    height:6vh;
+    background-color:#333C3F;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+}
+.leftArrow{
+height:15px;
+margin-top:8px;
+}
+.rightArrow{
+height:15px;
+margin-top:8px;
+}
+.adText{
+    text-align:center;
+    margin-top:8px;
+}
+.miniMe{
+    text-decoration: underline;
+}
+.coachSection{
+    border:solid black;
+    /* height:8vh; */
+    padding:50px;
+    display:block;
+    
+}
+
+.coachA{
+border:solid blue;
+    height:90px;
+}
+.coachB{
+    border:solid blue;
+    margin-top:35px;
+    height:30px;
+}
+.newparent{
+    /* border:solid red; */
+    width:30%;
+}
+.navbar{
+    border:solid black;
+    height:12vh;
+}
+.optionsMenu{
+    border:solid blue;
+    height:12vh;
+}
+.titleMain{
+    border:solid red;
+    height:12vh;
+}
+.caroContainer{
+    border:solid orange;
+    height:12vh;
+}
+.mainImg{
+    border:solid peru;
+    height:12vh;
+}
+.btnContainer{
+    border:solid lime;
+    height:12vh;
+}
+
+.storyStarter{
+    font-size:32px;
+    color:blue;
+}
+.story{
+    border:solid red;
+}
+
+.imageParent{
+    border:solid green;
+    margin:3em;
+    padding:80px;
+    background-image:url('https://images.pexels.com/photos/355748/pexels-photo-355748.jpeg?cs=srgb&dl=pexels-pixabay-355748.jpg&fm=jpg');
+    background-size:cover;
+}
+
+.mainImg{
+   width:100%;
+   height:400px;
+}
